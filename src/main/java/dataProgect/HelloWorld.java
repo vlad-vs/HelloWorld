@@ -97,9 +97,4 @@ public class HelloWorld {
 
 
     }
-
-    public void newMetod(){
-        System.out.println("newMetod");
-    }
-
 }
